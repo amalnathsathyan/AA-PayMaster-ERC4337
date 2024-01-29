@@ -18,8 +18,11 @@
   "homepage": "https://github.com/amalnathsathyan/AA-PayMaster-ERC4337#readme",
   "dependencies": {
     "@account-abstraction/contracts": "^0.6.0",
-    "@openzeppelin/contracts": "^5.0.0",
-    "hardhat": "^2.19.4"
+    "@openzeppelin/contracts": "^4.2.0",
+    "@uniswap/v3-periphery": "file:1.4.3npm install @openzeppelin/contracts@4.2.0 npm install @uniswap/v3-periphery@1.4.3",
+    "hardhat": "^2.19.4",
+    "install": "^0.13.0",
+    "npm": "^10.3.0"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0"
